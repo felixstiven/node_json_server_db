@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nommbre": "Stiven",
+      "apellido": "Felix",
+      "materias": [
+        {
+          "nombre": "NodeJs desde cero"
+        },
+        {
+          "nombre": "ReactJs desde cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        }
+      ],
+      "id": "ef02"
+    },
+    {
+      "id": "a583",
+      "nommbre": "Dabinson",
+      "apellido": "Alvis",
+      "materias": [
+        {
+          "nombre": "frotend desde cero"
+        },
+        {
+          "nombre": "Bakend desde cero"
+        },
+        {
+          "nombre": "Base de Datos"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "carlos",
+      "apellido": "alvis",
+      "promedio": 8.2,
+      "id": "1e1a"
+    },
+    {
+      "nombre": "david",
+      "apellido": "giraldo",
+      "promedio": 10,
+      "id": "fff5"
+    },
+    {
+      "id": "60b5",
+      "nombre": "yeimy",
+      "apellido": "orjuela",
+      "promedio": 10
+    }
+  ],
+  "curso": [
+    {
+      "nombre": "NodeJs desde cero",
+      "duracion": 7,
+      "dificu": "intermedio",
+      "id": "bfad"
+    },
+    {
+      "nombre": "ReactJs desde cero",
+      "duracion": 8,
+      "dificu": "intermedio",
+      "id": "b739"
+    },
+    {
+      "nombre": "Javascript desde cero",
+      "duracion": 8,
+      "dificu": "alta",
+      "id": "e36e"
+    }
+  ]
+}
